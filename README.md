@@ -1,6 +1,5 @@
-# Amazing_Bird
+# Amazing_Bird using HTML and CSS
 
-# Netflix ManagePage
 
 
 <h1 align="center">Hi 👋, I'm Ayush Shyam Lingayat</h1>
