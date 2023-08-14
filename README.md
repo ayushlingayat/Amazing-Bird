@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello Everyone hope you are well , I am Ayush Shyam Lingayat</h1>
+<h1 align="center"> I am Ayush Shyam Lingayat</h1>
 <h3 align="center">I Am a Front End Developer from India</h3>
 
 
